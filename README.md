@@ -1,2 +1,4 @@
-# Session-Tracking
-Experiment 8 – Session Tracking using Python Flask. Demonstrates cookie-based language preferences and HTTP session-based visit counting to maintain user-specific information across multiple requests in a web application.
+# Experiment 8
+Skill Development Course (Node JS / React JS / Django) - Lab Manual
+
+See the .docx file in this folder for the aim, steps, code and output.
